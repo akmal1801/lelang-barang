@@ -1,0 +1,2 @@
+# lelang-barang
+Aplikasi pelelangan
